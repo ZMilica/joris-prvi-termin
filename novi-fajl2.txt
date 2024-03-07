@@ -1,1 +1,2 @@
 neki tekst na master grani
+neki test dodat na tekst nova-grana
